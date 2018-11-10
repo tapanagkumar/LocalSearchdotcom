@@ -1,3 +1,6 @@
+# Current Status
+
+[![Build Status](https://travis-ci.com/tapanagkumar/LocalSearchdotcom.svg?branch=master)](https://travis-ci.com/tapanagkumar/LocalSearchdotcom)
 # CucumberFramework for LocalSearch Using Java
 
 This project demonstrates Searching using Local Search Search Engine.
