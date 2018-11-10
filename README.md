@@ -60,7 +60,7 @@ This project demonstrates Searching using Local Search Search Engine.
 
 `$ mvn test -Dbrowser=chrome`
 
-
+- By default the tests are run in Headless mode. To change, set chromeOptions.setHeadless(false) in SeleniumDriver.java file available in utils folder.
 
 ### HTML Reports
 
