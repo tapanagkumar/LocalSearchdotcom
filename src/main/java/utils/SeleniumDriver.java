@@ -107,7 +107,7 @@ public class SeleniumDriver {
         }
     }
 
-
+//scroll to the top of the page
     public static void scrollToTop()
     {
         JavascriptExecutor jse = (JavascriptExecutor)driver;

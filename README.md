@@ -1,4 +1,4 @@
-# CucumberFrameworkLocalSearch Example
+# CucumberFramework for LocalSearch Using Java
 
 This project demonstrates Searching using Local Search Search Engine.
 ## Pre-requisites
@@ -11,11 +11,11 @@ This project demonstrates Searching using Local Search Search Engine.
   - <a href="http://cucumber.github.io/cucumber-eclipse/update-site/" target="_blank">Cucumber</a>
   
   
- ### Setting up CucumberFrameworkXero
+ ### Setting up CucumberFramework using Java
 - Install Java(Recommended: Java 8 ) and set path.
 - Install Maven and set path.
 - Clone respective repository or download zip.
-	- maven : https://github.com/tapanagkumar/
+	- maven : https://github.com/tapanagkumar/LocalSearchdotcom.git
 
 
  ### Directory layout
