@@ -9,7 +9,7 @@ This project demonstrates Searching using Local Search Search Engine.
 ### Tests Covered
 
 - Feature 1: Test to Search for an Item from Search field.
-- Feature 2: Test to Search for an Item from Popular Searchers.
+- Feature 2: Test to Search for an Item from Popular Searches.
 
 ## Pre-requisites
 
