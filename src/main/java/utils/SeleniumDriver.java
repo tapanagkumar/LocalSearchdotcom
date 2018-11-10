@@ -34,7 +34,8 @@ public class SeleniumDriver {
 
             final ChromeOptions chromeOptions = new ChromeOptions();
 
-            chromeOptions.setHeadless(false);
+            chromeOptions.setHeadless(true);
+            chromeOptions.addArguments("window-size=1920x1080");
             driver = new ChromeDriver(chromeOptions);
         }
 
