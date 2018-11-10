@@ -1,0 +1,6 @@
+language: java
+sudo: required
+script: mvn clean verify
+addons:
+  chrome: stable
+  firefox: latest
