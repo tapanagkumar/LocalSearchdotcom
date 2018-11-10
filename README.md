@@ -4,6 +4,13 @@
 # CucumberFramework for LocalSearch Using Java
 
 This project demonstrates Searching using Local Search Search Engine.
+
+
+### Tests Covered
+
+- Feature 1: Test to Search for an Item from Search field.
+- Feature 2: Test to Search for an Item from Popular Searchers.
+
 ## Pre-requisites
 
 - <a href="https://java.com/en/download/manual.jsp" target="_blank">Java</a>
@@ -70,8 +77,3 @@ This project demonstrates Searching using Local Search Search Engine.
 - HTML reports can be viewed from `\target\Extent_Reports` location
 
 
-### Tests Covered
-
-- Feature 1: Test to Search for an Item from Search field.
-
-- Feature 2: Test to Search for an Item from Popular Searchers.
